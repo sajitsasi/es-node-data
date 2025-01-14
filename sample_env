@@ -1,0 +1,3 @@
+#Configuration to login to Elasticsearch
+ELASTIC_CLOUD_ID=<your-elastic-cloud-id>
+ELASTIC_API_KEY=<your-elastic-api-key>
